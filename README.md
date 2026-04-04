@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  I'm currently focusing on building practical solutions through full-stack development, design thinking, and AI.
+  I'm currently focusing on building practical solutions through full-stack development and AI.
 </p>
 
 <br/>
