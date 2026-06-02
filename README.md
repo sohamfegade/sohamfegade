@@ -19,16 +19,21 @@
 
 <br/>
 
+
+
 ### 🚀 Featured Projects
 
+* ⚡ **ZapIt - P2P File Sharing App** - A Flutter-based peer-to-peer file sharing application that enables fast, secure, and internet-free file transfers between nearby devices using Wi-Fi Direct and QR-based device discovery. <br>
+  🔗 GitHub Repo: https://github.com/sohamfegade/ZapIt
+
 * 🎟️ **Event Management System** - A full-stack application featuring role-based access built with React and Node.js. <br>
-  🔗 [GitHub Repo](https://github.com/sohamfegade/Event--Management--System) | 🌍 https://eventhubdmce.vercel.app
+  🔗 GitHub Repo: https://github.com/sohamfegade/Event--Management--System | 🌍 https://eventhubdmce.vercel.app
 
-* 🌐 **Portfolio Website** - My personal portfolio showcasing my projects and skills. <br>
-  🔗 [GitHub Repo](https://github.com/sohamfegade/portfolio-website) | 🌍 https://sohamfegade-portfolio.vercel.app
+* 🌐 **Portfolio Website** - My personal portfolio showcasing projects, skills, and achievements. <br>
+  🔗 GitHub Repo: https://github.com/sohamfegade/portfolio-website | 🌍 https://sohamfegade-portfolio.vercel.app
 
-* 👾 **Glitched Website** - An experimental front-end project. <br>
-  🔗 [GitHub Repo](https://github.com/sohamfegade/glitched-website) | 🌍 https://glitched-technitude.vercel.app
+* 👾 **Glitched Website** - An experimental front-end project exploring modern UI/UX and creative web design. <br>
+  🔗 GitHub Repo: https://github.com/sohamfegade/glitched-website | 🌍 https://glitched-technitude.vercel.app
 
 <br/>
 
