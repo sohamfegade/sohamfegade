@@ -19,25 +19,32 @@ Ask me about the MERN stack, Generative AI, and Design Thinking <br>
 ### 🚀 Featured Projects
 
 * ⚡ **[ZapIt - P2P File Sharing App](https://github.com/sohamfegade/ZapIt)** - A Flutter-based peer-to-peer file sharing application that enables fast, secure, and internet-free file transfers between nearby devices using Wi-Fi Direct and QR-based device discovery. 
-* 🎟️ **[EventHub - Event Management System](https://github.com/sohamfegade/Event--Management--System)** - A full-stack application featuring role-based access built with React and Node.js.  | 🌍 [Live Demo](https://eventhubdmce.vercel.app)
+* 🎟️ **[EventHub - Event Management System](https://github.com/sohamfegade/Event--Management--System)** - A full-stack application featuring role-based access built with React and Node.js. | 🌍 [Live Demo](https://eventhubdmce.vercel.app)
 * 🌐 **[Portfolio Website](https://github.com/sohamfegade/portfolio-website)** - My personal portfolio showcasing projects, skills, and achievements built with React and GSAP. | 🌍 [Live Demo](https://sohamfegade-portfolio.vercel.app)
 * 👾 **[Glitched Website](https://github.com/sohamfegade/glitched-website)** - An experimental front-end project exploring modern UI/UX and creative web design. | 🌍 [Live Demo](https://glitched-technitude.vercel.app)
 
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sohamfegade&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sohamfegade&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamfegade&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamfegade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sohamfegade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamfegade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 📈 Contribution Graph :
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Soham's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sohamfegade&icon=2&color=8" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sohamfegade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
