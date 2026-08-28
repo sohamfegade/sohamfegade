@@ -5,10 +5,11 @@
 </h1>
 
 # 💫 About Me:
-I'm an AI & Data Science student at Datta Meghe College Of Engineering <br>
-I’m currently focusing on building practical solutions through Full Stack Web Development and AI <br>
-I’m currently developing EventHub, a comprehensive Event Management System <br>
-Ask me about the MERN stack, Generative AI, and Design Thinking <br>
+I'm a passionate tech enthusiast driven by a curiosity to build smart, scalable, and user-centric solutions. <br>
+My technical journey orbits around blending **Full-Stack Web Development** with modern **Data Science** and **AI** concepts. <br>
+I approach problems with a Design-first mindset, focusing on empathy, structured thinking, and seamless experiences. <br>
+I am constantly seeking out new learning opportunities and thrive in environments that challenge me to grow and adapt. <br>
+Always eager to collaborate on innovative ideas, open-source projects, or hackathons—let's build something impactful together! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-fegade) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sohamfegade3@gmail.com) 
