@@ -27,24 +27,23 @@ Ask me about the MERN stack, Generative AI, and Design Thinking <br>
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamfegade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sohamfegade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamfegade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamfegade&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sohamfegade&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamfegade&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ### 📈 Contribution Graph :
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohamfegade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
