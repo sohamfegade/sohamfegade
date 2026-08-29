@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Soham Fegade</h1>
-<h3 align="center">AI & Data Science Engineering Student | Tenacious</h3>
+<h3 align="center">AI & Data Science Student | Tenacious</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soham-fegade"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,6 +19,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,java,python,git,github,vite,aws,vercel,postman,figma,blender&perline=10" alt="Tech Stack" />
+</p>
+
+<h2 align="center">🏢 Organisations</h2>
+<p align="center">
+  <a href="https://github.com/SHAIDS-DMCE">
+    <img src="https://img.shields.io/badge/SHAIDS--DMCE-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="SHAIDS-DMCE" />
+  </a>
 </p>
 
 <h3 align="center">📌 GitHub Overview</h3>
