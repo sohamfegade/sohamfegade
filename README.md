@@ -24,7 +24,7 @@
 <h2 align="center">🏢 Organisations</h2>
 <p align="center">
   <a href="https://github.com/SHAIDS-DMCE">
-    <img src="https://github.com/SHAIDS-DMCE.png" width="70" alt="SHAIDS-DMCE" />
+    <img src="https://github.com/SHAIDS-DMCE.png" width="150" alt="SHAIDS-DMCE" />
   </a>
 </p>
 
