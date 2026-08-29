@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Soham Fegade</h1>
-<h3 align="center">AI & Data Science Student @ Datta Meghe College of Engineering | Full-Stack Developer</h3>
+<h3 align="center">AI & Data Science Engineering Student | Tenacious</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soham-fegade"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
