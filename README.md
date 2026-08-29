@@ -21,18 +21,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,java,python,git,github,vite,aws,vercel,postman,figma,blender&perline=10" alt="Tech Stack" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <h3 align="center">📈 Contribution Activity</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=tokyonight&hide_border=true&area=true" alt="Contribution Activity" width="100%" />
-    </td>
-    <td width="25%" align="center">
-      <h3 align="center">📌 GitHub Overview</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohamfegade&theme=tokyonight" alt="GitHub Overview" width="100%" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">📌 GitHub Overview</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohamfegade&theme=tokyonight" alt="GitHub Overview" />
+</p>
 
 <table align="center" width="100%">
   <tr>
