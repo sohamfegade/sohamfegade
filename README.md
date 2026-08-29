@@ -24,7 +24,7 @@
 <h2 align="center">🏢 Organisations</h2>
 <p align="center">
   <a href="https://github.com/SHAIDS-DMCE">
-    <img src="https://img.shields.io/badge/SHAIDS--DMCE-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="SHAIDS-DMCE" />
+    <img src="https://github.com/SHAIDS-DMCE.png" width="70" alt="SHAIDS-DMCE" />
   </a>
 </p>
 
