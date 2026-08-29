@@ -25,7 +25,7 @@
   <tr>
     <td width="75%" align="center">
       <h3 align="center">📈 Contribution Activity</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution Activity" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=tokyonight&hide_border=true&area=true" alt="Contribution Activity" width="100%" />
     </td>
     <td width="25%" align="center">
       <h3 align="center">📌 GitHub Overview</h3>
