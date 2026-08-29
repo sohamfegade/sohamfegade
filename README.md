@@ -1,49 +1,76 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=550&lines=Hi,+I'm+Soham+Fegade!+%F0%9F%91%8B;AI+%26+Data+Science+Student;%E2%80%9CTenacious%E2%80%9D" alt="Typing SVG" />
-  </a>
-</h1>
-
-# 💫 About Me:
-I'm a passionate tech enthusiast driven by a curiosity to build smart, scalable, and user-centric solutions. <br>
-My technical journey orbits around blending **Full-Stack Web Development** with modern **Data Science** and **AI** concepts. <br>
-I approach problems with a Design-first mindset, focusing on empathy, structured thinking, and seamless experiences. <br>
-I am constantly seeking out new learning opportunities and thrive in environments that challenge me to grow and adapt. <br>
-Always eager to collaborate on innovative ideas, open-source projects, or hackathons—let's build something impactful together! <br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-fegade) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sohamfegade3@gmail.com) 
-
-# 💻 Tech Stack:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
-| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
-
-### 🚀 Featured Projects
-
-* ⚡ **[ZapIt - P2P File Sharing App](https://github.com/sohamfegade/ZapIt)** - A Flutter-based peer-to-peer file sharing application that enables fast, secure, and internet-free file transfers between nearby devices using Wi-Fi Direct and QR-based device discovery. 
-* 🎟️ **[EventHub - Event Management System](https://github.com/sohamfegade/Event--Management--System)** - A full-stack application featuring role-based access built with React and Node.js. | 🌍 [Live Demo](https://eventhubdmce.vercel.app)
-* 🌐 **[Portfolio Website](https://github.com/sohamfegade/portfolio-website)** - My personal portfolio showcasing projects, skills, and achievements built with React and GSAP. | 🌍 [Live Demo](https://sohamfegade-portfolio.vercel.app)
-* 👾 **[Glitched Website](https://github.com/sohamfegade/glitched-website)** - An experimental front-end project exploring modern UI/UX and creative web design. | 🌍 [Live Demo](https://glitched-technitude.vercel.app)
-
-<br/>
-
-### 🤝 Let's Collaborate!
-
-I'm always open to discussing new ideas, joining hackathons, or contributing to open-source. Reach out if you want to team up on:
-*   **AI integrations** within full-stack applications.
-*   **Creative problem-solving** focusing on Generative AI or Data Science.
-*   **Design-first projects** that utilize structured design thinking, user research, and wireframing.
-
----
-
+<h1 align="center">Hey 👋, I'm Soham Fegade</h1>
+<h3 align="center">AI & Data Science Student @ Datta Meghe College of Engineering | Full-Stack Developer</h3>
 <p align="center">
-  <a href="https://github.com/sohamfegade">
-    <img src="https://komarev.com/ghpvc/?username=sohamfegade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<a href="[https://www.linkedin.com/in/soham-fegade](https://www.linkedin.com/in/soham-fegade)"><img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
+<a href="mailto:sohamfegade3@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)" alt="Gmail" /></a>
+<img src="[https://komarev.com/ghpvc/?username=sohamfegade&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=sohamfegade&label=Profile%20Views&color=0e75b6&style=flat)" alt="Profile Views" />
+<img src="[https://img.shields.io/github/followers/sohamfegade?label=Followers&style=flat](https://img.shields.io/github/followers/sohamfegade?label=Followers&style=flat)" alt="Followers" />
 </p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<img
+src="[https://github-stats-extended.vercel.app/api?username=sohamfegade&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-stats-extended.vercel.app/api?username=sohamfegade&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github)"
+alt="GitHub Stats"
+width="100%"
+/>
+</td>
+<td width="50%" align="center">
+<img
+src="[https://github-readme-streak-stats-eight.vercel.app/?user=sohamfegade&theme=tokyonight&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=sohamfegade&theme=tokyonight&hide_border=true)"
+alt="GitHub Streak"
+width="100%"
+/>
+</td>
+</tr>
+</table>
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+<img
+src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,java,python,git,github,vite,aws,vercel,postman,figma,blender&perline=10](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,java,python,git,github,vite,aws,vercel,postman,figma,blender&perline=10)"
+alt="Tech Stack"
+/>
+</p>
+<table align="center" width="100%">
+<tr>
+<td width="75%" align="center">
+<h3>📈 Contribution Activity</h3>
+<img
+src="[https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=tokyo-night&hide_border=true&area=true&height=180](https://github-readme-activity-graph.vercel.app/graph?username=sohamfegade&theme=tokyo-night&hide_border=true&area=true&height=180)"
+alt="Contribution Activity"
+width="100%"
+/>
+</td>
+<td width="25%" align="center">
+<h3>📌 GitHub Overview</h3>
+<img
+src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohamfegade&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohamfegade&theme=tokyonight)"
+alt="GitHub Overview"
+width="100%"
+/>
+</td>
+</tr>
+</table>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<img
+src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohamfegade&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohamfegade&theme=tokyonight)"
+alt="Languages by Repository"
+width="100%"
+/>
+</td>
+<td width="50%" align="center">
+<img
+src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohamfegade&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohamfegade&theme=tokyonight)"
+alt="Languages by Commit"
+width="100%"
+/>
+</td>
+</tr>
+</table>
+<h2 align="center">🚀 Featured Projects</h2>
+ * ⚡ ZapIt - P2P File Sharing App - A Flutter-based peer-to-peer file sharing application that enables fast, secure, and internet-free file transfers between nearby devices using Wi-Fi Direct and QR-based device discovery.
+ * 🎟️ EventHub - Event Management System - A full-stack application featuring role-based access built with React, Node.js, and designed with a business-model-development approach. | 🌍 Live Demo
+ * 🌐 Portfolio Website - My personal portfolio showcasing projects, skills, and achievements built with React, GSAP, and Lucide icons. | 🌍 Live Demo
+ * 👾 Glitched Website - An experimental front-end project exploring modern UI/UX and creative web design. | 🌍 Live Demo
